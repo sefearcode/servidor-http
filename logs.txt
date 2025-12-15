@@ -1,0 +1,5 @@
+[2025-12-15T16:23:47.309Z] GET /api/tareas - Listar tareas
+[2025-12-15T16:23:57.579Z] POST /api/tareas - Crear tarea
+[2025-12-15T16:23:57.583Z] GET /api/tareas - Listar tareas
+[2025-12-15T16:24:07.430Z] GET /api/tareas - Listar tareas
+[2025-12-15T16:24:08.161Z] GET /api/tareas - Listar tareas
